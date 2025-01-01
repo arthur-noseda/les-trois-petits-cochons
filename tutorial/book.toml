@@ -1,0 +1,6 @@
+[book]
+authors = ["Arthur Noseda"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Les trois petits cochons"
